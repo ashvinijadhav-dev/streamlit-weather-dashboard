@@ -24,7 +24,7 @@ A simple and interactive Weather Dashboard built with **Python**, **Streamlit**,
 
 ## 🌐 Live Demo
 
-(Add your Streamlit app link after deployment)
+https://app-weather-dashboard-hwtkvr974jauor6s5ecpbz.streamlit.app/
 
 ## 📂 GitHub Repository
 
